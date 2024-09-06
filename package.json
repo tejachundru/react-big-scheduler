@@ -41,8 +41,8 @@
     "lint"
   ],
   "dependencies": {
-    "antd": "^3.16.6",
-    "cpy": "^3.4.1",
+    "antd": "^5.0.0",
+    "cpy": "^5.1.0",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
